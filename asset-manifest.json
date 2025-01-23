@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/balder-opportunities/static/css/main.940b8133.css",
+    "main.js": "/balder-opportunities/static/js/main.3f5cd99a.js",
+    "index.html": "/balder-opportunities/index.html",
+    "main.940b8133.css.map": "/balder-opportunities/static/css/main.940b8133.css.map",
+    "main.3f5cd99a.js.map": "/balder-opportunities/static/js/main.3f5cd99a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.940b8133.css",
+    "static/js/main.3f5cd99a.js"
+  ]
+}
