@@ -1,6 +1,11 @@
 ----------------------------------------------------
  # **Work in Progress**
+
+ ## This project is a commissioned website currently in the ideation phase.
 ----------------------------------------------------
+
+
+
 
 
 ## Getting Started with Create React App
